@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @a-aksh
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach out to me via email or discord(username: 911aircraft)
 - 😄 Pronouns: He/Him
 
